@@ -283,7 +283,6 @@ The final Tree of CH Project should be like the below:
 clearing-house
 ¦   .env
 ¦   docker-compose.yml
-¦   output.txt
 ¦   
 +---data
     ¦   Rocket.toml
